@@ -1,10 +1,10 @@
-#Shipping Analysis Dashboard
+# Shipping Analysis Dashboard
 
-#Overview
+# Overview
 
 This Power BI dashboard provides insights into maritime operations by analyzing vessels, crew members, ports, and shipments. It follows a Star Schema for efficiency and usability.
 
-#Data Sources
+# Data Sources
 
 Vessels: Details on ship specifications, including capacity (TEU), draught, and build year.
 
@@ -15,7 +15,7 @@ Ports: Geographic and operational details of origin and destination ports.
 Shipments: Historical records of vessel movements, including shipment weight and dates.
 
 
-#Key Features
+# Key Features
 
 Vessel Age Calculation: Determines ship age based on build year.
 
